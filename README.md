@@ -1,2 +1,2 @@
 # opensource-practice-repo
-This is practice repository
+This is practice repository for opensource
