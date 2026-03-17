@@ -1,5 +1,5 @@
 YAML
-name: CI
+name: Cl
 on: [push]
 jobs:
   build:
